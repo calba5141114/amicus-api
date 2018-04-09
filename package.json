@@ -1,0 +1,26 @@
+{
+  "name": "amicus-api",
+  "version": "1.0.0",
+  "description": "An api  for the amicus app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calba5141114/amicus-api.git"
+  },
+  "keywords": [
+    "api",
+    "messaging",
+    "mongo",
+    "or",
+    "posgres?"
+  ],
+  "author": "Carlos Alba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calba5141114/amicus-api/issues"
+  },
+  "homepage": "https://github.com/calba5141114/amicus-api#readme"
+}
