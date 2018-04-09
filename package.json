@@ -4,7 +4,8 @@
   "description": "An api  for the amicus app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+"start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/calba5141114/amicus-api/issues"
   },
-  "homepage": "https://github.com/calba5141114/amicus-api#readme"
+  "homepage": "https://github.com/calba5141114/amicus-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
